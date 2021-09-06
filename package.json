@@ -11,7 +11,12 @@
     "deploy": "parcel build index.html --public-url /WebVR-Audio-Visualizer/ && gh-pages -d dist"
   },
   "dependencies": {
-    "aframe": "^0.7.1",
-    "shader-particle-engine": "^1.0.6"
+    "aframe": "^1.2.0",
+    "networked-aframe": "^0.8.0",
+    "shader-particle-engine": "^1.0.6",
+    "webpack": "^5.52.0",
+    "open-easyrtc": "^2.0.5",
+    "socket.io": "^2.3.0",
+    "webpack-dev-middleware": "^5.0.0"
   }
 }

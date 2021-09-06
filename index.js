@@ -4,7 +4,7 @@ import './components/AudioAnalyser';
 
 //Component
 //控制菜单
-import './components/PlayButton'; 
+import './components/playButton'; 
 import './components/Menu';
 import './components/Item';
 

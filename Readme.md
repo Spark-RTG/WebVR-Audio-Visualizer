@@ -20,7 +20,7 @@ Detect the rhythm of the basic part of the song.
 
 Learn the Detect Method from [stasilo](https://github.com/stasilo/BeatDetector)
 
-### Componet Structure
+### Component Structure
 
 ![image](https://github.com/todaylg/WebVR-Audio-Visualizer/blob/master/introImages/Componet.png)
 
